@@ -1,12 +1,13 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=4000&pause=1000&color=F8F6F0&center=true&vCenter=true&width=700&lines=Alessio+Casarotto;Automation+Engineering+Student;Software+Developer;C%2B%2B+Enthusiast"/>
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=4000&pause=1000&color=F8F6F0&center=true&vCenter=true&width=700&lines=Alessio+Casarotto;Automation+Engineering+Student;Politecnico di Milano"/>
 
 <img src="https://raw.githubusercontent.com/mistery-alex06/mistery-alex06/main/assets/banner.png" width="100%" alt="Banner"/>
 
 ### Automation Engineering student at Politecnico di Milano 🇮🇹
 
-> *Building software, experimenting with new technologies and turning ideas into real projects.*
+> *Building software for Polimi Sailing Team*
+> *Experimenting with various languages and turning simple ideas into real projects*
 
 <br>
 
