@@ -2,7 +2,7 @@
 
 # <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=4000&pause=1000&color=F8F6F0&center=true&vCenter=true&width=700&lines=Alessio+Casarotto;Automation+Engineering+Student;Software+Developer;C%2B%2B+Enthusiast"/>
 
-<img src="Desktop/banner_profilo_github.png" width="100%" alt="Banner"/>
+<img src="https://raw.githubusercontent.com/mistery-alex06/mistery-alex06/main/assets/banner.png" width="100%" alt="Banner"/>
 
 ### Automation Engineering student at Politecnico di Milano 🇮🇹
 
@@ -62,7 +62,7 @@
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mistery-alex06&theme=algolia&no-frame=true&column=6"/>
+<img src="https://github-profile-trophy-selfhost-zeta.vercel.app/?username=mistery-alex06&theme=algolia&no-frame=true&column=6"/>
 
 </div>
 
@@ -133,7 +133,7 @@ Status
 &nbsp;&nbsp;
 
 <a href="https://facebook.com/TUO_USERNAME">
-<img src="https://skillicons.dev/icons?i=facebook"/>
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48"/>
 </a>
 
 </div>
