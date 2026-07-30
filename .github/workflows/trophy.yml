@@ -21,7 +21,7 @@ jobs:
           file: assets/trophy.svg
           theme: algolia
           max-cols: "6"
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit trophy to main
         uses: stefanzweifel/git-auto-commit-action@v5
