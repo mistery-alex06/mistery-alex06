@@ -1,29 +1,173 @@
-<h1 align="center">Hi 👋, I'm Alessio Casarotto</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mistery-alex06&label=Profile%20views&color=0e75b6&style=flat" alt="mistery-alex06" /> </p>
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=4000&pause=1000&color=F8F6F0&center=true&vCenter=true&width=700&lines=Alessio+Casarotto;Automation+Engineering+Student;Software+Developer;C%2B%2B+Enthusiast"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mistery-alex06" alt="mistery-alex06" /></a> </p>
+<img src="Desktop/banner_profilo_github.png" width="100%" alt="Banner"/>
 
-- 🔭 I’m currently working on **portable gaming USB**
+### Automation Engineering student at Politecnico di Milano 🇮🇹
 
-- 👨‍💻 All of my projects are available at [https://github.com/mistery-alex06](https://github.com/mistery-alex06)
+> *Building software, experimenting with new technologies and turning ideas into real projects.*
 
-- 📫 How to reach me **alessio.casarotto2006@gmail.com**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/alessio casarotto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alessio casarotto" height="30" width="40" /></a>
-<a href="https://instagram.com/alessio casarotto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alessio casarotto" height="30" width="40" /></a>
-<a href="https://discord.gg/895736666323558441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="895736666323558441" height="30" width="40" /></a>
+![](https://komarev.com/ghpvc/?username=mistery-alex06&label=Profile%20Views&color=E6D3A3&style=for-the-badge)
+
+</div>
+
+---
+
+# 👋 About Me
+
+<div align="center">
+
+| 🎓 Student | ⚓ Developer |
+|------------|-------------|
+| Automation Engineering @ **Politecnico di Milano** | Software Developer @ **Polimi Sailing Team** |
+
+| 🚀 Current Project | 💻 Experience |
+|-------------------|--------------|
+| Portable Gaming USB | Programming for **5+ years** |
+
+| 🎮 Hobby | 🥊 Hobby |
+|----------|----------|
+| Gaming | Combat Sports |
+
+| 🎵 Music | 🌱 Mindset |
+|----------|-----------|
+| Music Lover | Always Learning |
+
+</div>
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## Frameworks & Technologies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mistery-alex06&show_icons=true&locale=en&layout=compact" alt="mistery-alex06" /></p>
+<p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mistery-alex06&show_icons=true&locale=en" alt="mistery-alex06" /></p>
+<img src="https://skillicons.dev/icons?i=angular,nodejs,git,github,linux,vscode,bash"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mistery-alex06&" alt="mistery-alex06" /></p>
+</p>
 
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mistery-alex06&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistery-alex06&layout=compact&theme=transparent&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=mistery-alex06&theme=transparent&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mistery-alex06&theme=algolia&no-frame=true&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mistery-alex06&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | Description |
+|------------|-------------|
+| 🃏 **Poker in C** | Multiplayer poker game completely written in C. |
+| 🎮 **Portable Gaming USB** | Portable gaming environment running directly from a USB drive. |
+| ⚓ **Polimi Sailing Team** | Software developed for the university sailing team. |
+
+</div>
+
+---
+
+# 🚧 Currently Working On
+
+<div align="center">
+
+```text
+██████████████████████████████████
+
+Portable Gaming USB
+
+A portable gaming environment
+containing games, utilities
+and custom software.
+
+Status
+
+██████████░░░░░░░░░░░░ 45%
+
+██████████████████████████████████
+```
+
+</div>
+
+---
+
+# 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://discord.com/users/TUO_ID">
+<img src="https://skillicons.dev/icons?i=discord"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://instagram.com/TUO_USERNAME">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://facebook.com/TUO_USERNAME">
+<img src="https://skillicons.dev/icons?i=facebook"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mistery-alex06/mistery-alex06/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Motto
+
+> **Code. Break. Learn. Repeat.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E6D3A3,100:111111&section=footer"/>
+
+</div>
