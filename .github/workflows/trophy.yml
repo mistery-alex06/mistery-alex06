@@ -1,0 +1,30 @@
+name: Generate Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: mistery-alex06
+          output_path: assets/trophy.svg
+          theme: algolia
+          column: "6"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit trophy to main
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update trophy svg"
+          file_pattern: assets/trophy.svg
