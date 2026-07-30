@@ -18,9 +18,9 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: mistery-alex06
-          output_path: assets/trophy.svg
+          file: assets/trophy.svg
           theme: algolia
-          column: "6"
+          max-cols: "6"
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit trophy to main
