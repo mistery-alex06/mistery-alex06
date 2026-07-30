@@ -20,16 +20,9 @@
 
 <div align="center">
 
-| | |
-|---|---|
-| 🎓 **Student** | Automation Engineering @ **Politecnico di Milano** |
-| ⚓ **Developer** | Software Developer @ **Polimi Sailing Team** |
-| 🚀 **Current Project** | Portable Gaming USB |
-| 💻 **Experience** | Programming for **5+ years** |
-| 🎮 **Hobby** | Gaming |
-| 🥊 **Hobby** | Combat Sports |
-| 🎵 **Music** | Music Lover |
-| 🌱 **Mindset** | Always Learning |
+| 🎓 Student | ⚓ Developer | 🚀 Current Project | 💻 Experience | 🎮 Hobby | 🥊 Hobby | 🎵 Music | 🌱 Mindset |
+|---|---|---|---|---|---|---|---|
+| Automation Engineering @ **Politecnico di Milano** | Software Developer @ **Polimi Sailing Team** | Portable Gaming USB | Programming for **5+ years** | Gaming | Combat Sports | Music Lover | Always Learning |
 
 </div>
 
