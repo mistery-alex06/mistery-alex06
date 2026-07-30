@@ -7,7 +7,7 @@
 ### Automation Engineering student at Politecnico di Milano 🇮🇹
 
 > *Building software for Polimi Sailing Team*
-> *Experimenting with various languages and turning simple ideas into real projects*
+> *, experimenting with various languages and turning simple ideas into real projects*
 
 <br>
 
