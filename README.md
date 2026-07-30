@@ -42,7 +42,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,nodejs,git,github,linux,vscode,bash"/>
+<img src="https://skillicons.dev/icons?i=angular,nodejs,git,github,docker,vscode,bash"/>
 
 </p>
 
@@ -62,7 +62,7 @@
 
 <br><br>
 
-<img src="https://github-profile-trophy-selfhost-zeta.vercel.app/?username=mistery-alex06&theme=algolia&no-frame=true&column=6"/>
+<img src="https://raw.githubusercontent.com/mistery-alex06/mistery-alex06/main/assets/trophy.svg"/>
 
 </div>
 
