@@ -1,14 +1,9 @@
-### Ciao, sono Alessio! 💻⚡
+<h1 align="center">Ciao, sono Alessio! 🚀</h1>
 
-Costruttore di codice, stratega di sistemi e *gamer* del terminale. 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mistery-alex06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+</p>
 
----
-
-### 🛠️ Tech Stack & Skills
-* **Linguaggi:** C, Python, JavaScript, CSS
-* **Aree di focus:** Sviluppo software, architetture modulari, WebAssembly e game dev da browser.
-
----
-
-### 📊 I miei Repository in evidenza
-Dai un'occhiata qui sotto ai miei progetti principali (`ultimo-voto`, `Ares`, `Poker_C`, `Scacchi`). Fai un salto nei repository per vedere il codice in azione! 🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistery-alex06&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
