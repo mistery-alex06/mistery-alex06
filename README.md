@@ -155,7 +155,7 @@ Status
 
 ## 💭 Motto
 
-> **Code. Break. Learn. Repeat.**
+> **IF IT DOESN'T WORK, MAKE IT WORK**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E6D3A3,100:111111&section=footer"/>
 
