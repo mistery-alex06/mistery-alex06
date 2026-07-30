@@ -7,7 +7,7 @@
 ### Automation Engineering student at Politecnico di Milano 🇮🇹
 
 > *Building software for Polimi Sailing Team*
-> *, experimenting with various languages and turning simple ideas into real projects*
+> *Experimenting with various languages and turning simple ideas into real projects*
 
 <br>
 
@@ -108,7 +108,7 @@ and custom software.
 
 Status
 
-███████████░░░░░░░░░░░ 50%
+██████████░░░░░░░░░░░░ 45%
 
 ██████████████████████████████████
 ```
@@ -121,21 +121,7 @@ Status
 
 <div align="center">
 
-<a href="https://discord.com/users/TUO_ID">
-<img src="https://skillicons.dev/icons?i=discord"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://instagram.com/TUO_USERNAME">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://facebook.com/TUO_USERNAME">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48"/>
-</a>
+<a href="https://discord.com/users/mistery_alex"><img src="https://skillicons.dev/icons?i=discord"/></a>&nbsp;&nbsp;<a href="https://instagram.com/Alessio Casarotto"><img src="https://skillicons.dev/icons?i=instagram"/></a>&nbsp;&nbsp;<a href="https://facebook.com/Alessio Casarotto"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48"/></a>
 
 </div>
 
@@ -155,7 +141,7 @@ Status
 
 ## 💭 Motto
 
-> **IF IT DOESN'T WORK, MAKE IT WORK**
+> **Code. Break. Learn. Repeat.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E6D3A3,100:111111&section=footer"/>
 
