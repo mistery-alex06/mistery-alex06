@@ -55,7 +55,7 @@
 
 <img height="180" src="https://github-readme-stats-umber-nu-22.vercel.app/api?username=mistery-alex06&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=0"/>
 
-<img height="250" src="https://github-readme-stats-umber-nu-22.vercel.app/api/top-langs/?username=mistery-alex06&layout=compact&theme=transparent&hide_border=true&langs_count=12&card_width=300&cache_seconds=0"/>
+<img height="250" src="https://github-readme-stats-umber-nu-22.vercel.app/api/top-langs/?username=mistery-alex06&layout=compact&theme=transparent&hide_border=true&langs_count=12&card_width=265&cache_seconds=0"/>
 
 <br><br>
 
