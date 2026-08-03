@@ -44,7 +44,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mistery-alex06&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=FFD700&point=FFD700&area=true&area_color=FFD700)](https://github.com/mistery-alex06)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mistery-alex06&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=3fb950&area=true&area_color=3fb950)](https://github.com/mistery-alex06)
 
 </div>
 
@@ -93,7 +93,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistery-alex06&layout=donut&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=0&bg_color=0d1117" />
+<img src="https://github-readme-stats-umber-nu-22.vercel.app/api/top-langs/?username=mistery-alex06&layout=donut-vertical&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=0&bg_color=0d1117" height="200"/>
 
 > *Based on 28.9MB of code*
 
