@@ -9,23 +9,23 @@
 <table>
 <tr>
 <td align="center" width="190">
-<img src="https://cdn.simpleicons.org/github/ffffff" width="24" height="24"/>
-<h3>17</h3>
+<img src="https://cdn.simpleicons.org/github/ffffff" width="24" height="24"/><br>
+<big><big><b>17</b></big></big><br>
 <sub><b>TOTAL REPOS</b></sub>
 </td>
 <td align="center" width="190">
-<img src="https://cdn.simpleicons.org/apachespark/FFD700" width="24" height="24"/>
-<h3>0</h3>
+<img src="https://cdn.simpleicons.org/apachespark/FFD700" width="24" height="24"/><br>
+<big><big><b>0</b></big></big><br>
 <sub><b>ALL STARS</b></sub>
 </td>
 <td align="center" width="190">
-<img src="https://cdn.simpleicons.org/meetup/FF00FF" width="24" height="24"/>
-<h3>7</h3>
+<img src="https://cdn.simpleicons.org/meetup/FF00FF" width="24" height="24"/><br>
+<big><big><b>7</b></big></big><br>
 <sub><b>FOLLOWERS</b></sub>
 </td>
 <td align="center" width="190">
-<img src="https://cdn.simpleicons.org/clockify/00CC66" width="24" height="24"/>
-<h3>1</h3>
+<img src="https://cdn.simpleicons.org/clockify/00CC66" width="24" height="24"/><br>
+<big><big><b>1</b></big></big><br>
 <sub><b>YEARS ACTIVE</b></sub>
 </td>
 </tr>
