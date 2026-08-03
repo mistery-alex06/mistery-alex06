@@ -62,51 +62,46 @@
 <!-- Tech Stack Section -->
 ## `</>` &nbsp;Tech Stack & Languages
 
-<table align="left" width="48%">
+<table align="center" width="100%">
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 **CORE TECHNOLOGIES**
 
-![C++](https://img.shields.io/badge/C++-161b22?style=plastic&logo=cplusplus&logoColor=f34b7d)&nbsp;
-![C](https://img.shields.io/badge/C-161b22?style=plastic&logo=c&logoColor=555555)&nbsp;
-![Python](https://img.shields.io/badge/Python-161b22?style=plastic&logo=python&logoColor=3572A5)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-161b22?style=plastic&logo=html5&logoColor=e34c26)&nbsp;
-![CMake](https://img.shields.io/badge/CMake-161b22?style=plastic&logo=cmake&logoColor=f34b7d)&nbsp;
-![Shell](https://img.shields.io/badge/Shell-161b22?style=plastic&logo=gnubash&logoColor=89e051)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=plastic&logo=javascript&logoColor=f1e05a)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-161b22?style=plastic&logo=css3&logoColor=563d7c)
+![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-f34b7d?style=flat-square&logo=cmake&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnubash&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css3&logoColor=white)
 
 <br>
 
 **FRAMEWORKS & TOOLS**
 
-![Angular](https://img.shields.io/badge/Angular-161b22?style=plastic&logo=angular&logoColor=dd0031)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-161b22?style=plastic&logo=nodedotjs&logoColor=3c873a)&nbsp;
-![Git](https://img.shields.io/badge/Git-161b22?style=plastic&logo=git&logoColor=f05032)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-161b22?style=plastic&logo=docker&logoColor=2496ED)&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-161b22?style=plastic&logo=visualstudiocode&logoColor=0078d4)&nbsp;
-![Bash](https://img.shields.io/badge/Bash-161b22?style=plastic&logo=gnubash&logoColor=4EAA25)
+![Angular](https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </td>
-<td width="1"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="1" height="210" /></td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<table align="right" width="48%">
-<tr>
-<td valign="middle" align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistery-alex06&layout=donut&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=0&bg_color=0d1117" />
+<img src="https://github-readme-stats-umber-nu-22.vercel.app/api/top-langs/?username=mistery-alex06&layout=donut-vertical&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=0&bg_color=0d1117" height="200"/>
 
 > *Based on 28.9MB of code*
 
+</div>
+
 </td>
-<td width="1"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="1" height="210" /></td>
 </tr>
 </table>
-
-<br clear="all" />
 
 ---
 
