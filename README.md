@@ -9,28 +9,28 @@
 <table>
 <tr>
 <td align="center" width="190">
-<img src="https://cdn.simpleicons.org/github/ffffff" width="26" height="10"/>
+<img src="https://cdn.simpleicons.org/github/ffffff" width="26" height="20"/>
 <br>
 <h2>17</h2>
 <sub><b>TOTAL REPOS</b></sub>
 <br>
 </td>
 <td align="center" width="190">
-<img src="https://cdn.simpleicons.org/apachespark/FFD700" width="26" height="10"/>
+<img src="https://cdn.simpleicons.org/apachespark/FFD700" width="26" height="20"/>
 <br>
 <h2>0</h2>
-<sub><b>ALLSTARS</b></sub>
+<sub><b>ALL STARS</b></sub>
 <br>
 </td>
 <td align="center" width="190">
-<img src="https://cdn.simpleicons.org/meetup/FF00FF" width="26" height="10"/>
+<img src="https://cdn.simpleicons.org/meetup/FF00FF" width="26" height="20"/>
 <br>
 <h2>7</h2>
 <sub><b>FOLLOWERS</b></sub>
 <br>
 </td>
 <td align="center" width="190">
-<img src="https://cdn.simpleicons.org/clockify/00CC66" width="26" height="10"/>
+<img src="https://cdn.simpleicons.org/clockify/00CC66" width="26" height="20"/>
 <br>
 <h2>1</h2>
 <sub><b>YEARS ACTIVE</b></sub>
