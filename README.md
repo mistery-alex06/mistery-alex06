@@ -44,7 +44,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mistery-alex06&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=3fb950&area=true&area_color=3fb950)](https://github.com/mistery-alex06)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mistery-alex06&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=FFD700&point=FFD700&area=true&area_color=FFD700)](https://github.com/mistery-alex06)
 
 </div>
 
