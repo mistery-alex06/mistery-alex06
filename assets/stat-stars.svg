@@ -1,0 +1,8 @@
+<svg width="210" height="68" viewBox="0 0 210 68" xmlns="http://www.w3.org/2000/svg">
+  <rect width="208" height="66" x="1" y="1" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <g transform="translate(94,7) scale(0.917)">
+    <path fill="#FFD700" d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+  </g>
+  <text x="105" y="44" text-anchor="middle" font-size="20" font-weight="700" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">0</text>
+  <text x="105" y="59" text-anchor="middle" font-size="9" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" letter-spacing="0.8">ALL STARS</text>
+</svg>
