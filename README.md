@@ -93,7 +93,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-umber-nu-22.vercel.app/api/top-langs/?username=mistery-alex06&layout=donut-vertical&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=0&bg_color=0d1117" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistery-alex06&layout=donut&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=0&bg_color=0d1117" />
 
 > *Based on 28.9MB of code*
 
