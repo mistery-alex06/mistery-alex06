@@ -64,7 +64,7 @@
 
 <table align="left" width="48%">
 <tr>
-<td valign="top" height="210">
+<td valign="top">
 
 **CORE TECHNOLOGIES**
 
@@ -89,18 +89,20 @@
 ![Bash](https://img.shields.io/badge/Bash-161b22?style=plastic&logo=gnubash&logoColor=4EAA25)
 
 </td>
+<td width="1"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="1" height="210" /></td>
 </tr>
 </table>
 
 <table align="right" width="48%">
 <tr>
-<td valign="middle" align="center" height="210">
+<td valign="middle" align="center">
 
-<img src="https://github.readme-stats-umber-nu-22.vercel.app/api/top-langs/?username=mistery-alex06&layout=donut&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=0&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistery-alex06&layout=donut&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=0&bg_color=0d1117" />
 
 > *Based on 28.9MB of code*
 
 </td>
+<td width="1"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="1" height="210" /></td>
 </tr>
 </table>
 
