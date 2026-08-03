@@ -52,14 +52,8 @@
 <div align="center">
 
 <img height="160" src="https://github-readme-stats-umber-nu-22.vercel.app/api?username=mistery-alex06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=0&bg_color=0d1117"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats-umber-nu-22.vercel.app/api/top-langs/?username=mistery-alex06&layout=donut&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=0&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![Streak](https://streak-stats.demolab.com?user=mistery-alex06&theme=github-dark-blue&hide_border=true&background=0d1117)](https://github.com/mistery-alex06)
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mistery-alex06"><img height="160" src="https://streak-stats.demolab.com?user=mistery-alex06&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak"/></a>
 
 </div>
 
