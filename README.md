@@ -20,42 +20,6 @@
 
 ---
 
-<!-- About Row -->
-<table align="center" width="100%">
-<tr>
-<td width="30%" valign="top" align="center">
-
-<br>
-
-<img src="https://github.com/mistery-alex06/mistery-alex06/blob/main/assets/banner.png?raw=true" width="200" style="border-radius:50%;border:3px solid #30363d;" alt="Profile Picture"/>
-
-<br><br>
-
-### Alessio Casarotto
-#### `@mistery-alex06`
-
-<br>
-
-[![Follow on GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mistery-alex06)
-
-<br>
-
-![Systems Badge](https://img.shields.io/badge/Systems-30363d?style=flat-square&labelColor=30363d&color=30363d)
-
-<br>
-
-📍 &nbsp;**Italy**  
-📅 &nbsp;**Joined May 2026**  
-👥 &nbsp;**7 followers · 11 following**  
-👁️ &nbsp;**1 view**
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mistery-alex06&label=Profile+Views&color=30363d&style=flat-square)
-
-</td>
-<td width="70%" valign="top">
-
 <!-- Contributions Section -->
 ## 📊 &nbsp;Contributions
 
@@ -66,8 +30,6 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mistery-alex06&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=3fb950&area=true&area_color=3fb950)](https://github.com/mistery-alex06)
 
 </div>
-
----
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -83,10 +45,6 @@
 [![Streak](https://streak-stats.demolab.com?user=mistery-alex06&theme=github-dark-blue&hide_border=true&background=0d1117)](https://github.com/mistery-alex06)
 
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -170,84 +128,6 @@ Contributed to **Madonnina-Studios**
 
 ---
 
-<!-- Notable Projects -->
-## 🔖 &nbsp;Notable Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 📁 &nbsp;[llm-cpp](https://github.com/mistery-alex06/llm-cpp)
-
-![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square)
-
-Un motore LLM artigianale in C++ sviluppato da zero, con matrici, tokenizzazione e logica neurale personalizzata.
-
-⭐ 0 &nbsp; 🍴 0
-
-</td>
-<td width="50%" valign="top">
-
-### 📁 &nbsp;[Ares---Automated-Resource-Engagem...](https://github.com/mistery-alex06/Ares---Automated-Resource-Engagement)
-
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square)
-
-Ares è un sistema di intelligenza artificiale avanzato progettato per l'integrazione e il monitoraggio operativo.
-
-⭐ 0 &nbsp; 🍴 0
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📁 &nbsp;[cpp-directory-analyzer](https://github.com/mistery-alex06/cpp-directory-analyzer)
-
-![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square)
-
-Un lightweight file analyzer e directory scanner ad alte prestazioni scritto interamente in C++.
-
-⭐ 0 &nbsp; 🍴 0
-
-</td>
-<td width="50%" valign="top">
-
-### 📁 &nbsp;[cpp-http-server](https://github.com/mistery-alex06/cpp-http-server)
-
-![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square)
-
-A lightweight, multi-threaded HTTP server built from scratch in modern C++ using a custom ThreadPool architecture.
-
-⭐ 0 &nbsp; 🍴 0
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📁 &nbsp;[Poker_C](https://github.com/mistery-alex06/Poker_C)
-
-![C](https://img.shields.io/badge/C-555555?style=flat-square)
-
-Texas-Holdem-Engine-C: Motore di gioco per Texas Hold'em sviluppato in C puro. Architettura modulare progettata per...
-
-⭐ 0 &nbsp; 🍴 0
-
-</td>
-<td width="50%" valign="top">
-
-### 📁 &nbsp;[mistery-alex06](https://github.com/mistery-alex06/mistery-alex06)
-
-*No description available for this repository.*
-
-⭐ 0 &nbsp; 🍴 0
-
-</td>
-</tr>
-</table>
-
----
-
 <!-- Contribution Snake -->
 <div align="center">
 
@@ -266,13 +146,3 @@ Texas-Holdem-Engine-C: Motore di gioco per Texas Hold'em sviluppato in C puro. A
 
 </div>
 
----
-
-<!-- Footer -->
-<div align="center">
-
-> **IF IT DOESN'T WORK, MAKE IT WORK**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:161b22&section=footer" width="100%"/>
-
-</div>
