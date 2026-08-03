@@ -3,16 +3,45 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:161b22,100:0d1117&text=Welcome%20to%20Alessio%20Casarotto's%20Hub&fontSize=28&fontColor=e6edf3&fontAlignY=40&desc=Explore%20open%20source%20contributions%20and%20projects&descAlignY=60&descColor=8b949e&section=header" width="100%"/>
 </div>
 
-<!-- Stats Row -->
+<!-- Stats Cards -->
 <div align="center">
 
-![Repos](https://img.shields.io/badge/TOTAL%20REPOS-17-e6edf3?style=for-the-badge&labelColor=161b22&color=21262d&logo=github&logoColor=e6edf3)
-&nbsp;
-![Stars](https://img.shields.io/badge/ALL%20STARS-0-e6edf3?style=for-the-badge&labelColor=161b22&color=21262d&logo=star&logoColor=f0c419)
-&nbsp;
-![Followers](https://img.shields.io/badge/FOLLOWERS-7-e6edf3?style=for-the-badge&labelColor=161b22&color=21262d&logo=people&logoColor=e6edf3)
-&nbsp;
-![Years](https://img.shields.io/badge/YEARS%20ACTIVE-1-e6edf3?style=for-the-badge&labelColor=161b22&color=21262d&logo=clock&logoColor=e6edf3)
+<table>
+<tr>
+<td align="center" width="210">
+<br>
+<img src="https://cdn.simpleicons.org/github/8b949e" width="28" height="28"/>
+<br>
+<h1>17</h1>
+<sub><b>TOTAL REPOS</b></sub>
+<br><br>
+</td>
+<td align="center" width="210">
+<br>
+<img src="https://cdn.simpleicons.org/apachespark/8b949e" width="28" height="28"/>
+<br>
+<h1>0</h1>
+<sub><b>ALL STARS</b></sub>
+<br><br>
+</td>
+<td align="center" width="210">
+<br>
+<img src="https://cdn.simpleicons.org/github/8b949e" width="28" height="28"/>
+<br>
+<h1>7</h1>
+<sub><b>FOLLOWERS</b></sub>
+<br><br>
+</td>
+<td align="center" width="210">
+<br>
+<img src="https://cdn.simpleicons.org/clockify/8b949e" width="28" height="28"/>
+<br>
+<h1>1</h1>
+<sub><b>YEARS ACTIVE</b></sub>
+<br><br>
+</td>
+</tr>
+</table>
 
 </div>
 
