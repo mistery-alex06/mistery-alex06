@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mistery-alex06&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mistery-alex06&custom_title=Contribution%20Activity&bg_color=00000000&color=F8F6F0&line=E6D3A3&point=F8F6F0&area=true&area_color=E6D3A3&hide_border=true&title_color=E6D3A3"/>
 
 </div>
 
