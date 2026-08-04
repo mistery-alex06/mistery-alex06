@@ -40,8 +40,6 @@
 <!-- Contributions Section -->
 ## 📊 &nbsp;Contributions
 
-> **323** contributions in the last year
-
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mistery-alex06&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=3fb950&area=true&area_color=3fb950)](https://github.com/mistery-alex06)
@@ -54,6 +52,13 @@
 <img height="160" src="https://github-readme-stats-umber-nu-22.vercel.app/api?username=mistery-alex06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=0&bg_color=0d1117"/>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/mistery-alex06"><img height="160" src="https://streak-stats.demolab.com?user=mistery-alex06&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak"/></a>
+
+</div>
+
+<!-- Trophies -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mistery-alex06/mistery-alex06/main/assets/trophy.svg" alt="Trophies"/>
 
 </div>
 
@@ -105,122 +110,11 @@
 
 ---
 
-<!-- Open Source Contributions -->
-## 🌐 &nbsp;Open Source Contributions
-
-> **0 PRs** &nbsp;·&nbsp; **19 commits**
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-### 📋 &nbsp;[treni](https://github.com/Madonnina-Studios/treni)
-
-![CSS](https://img.shields.io/badge/CSS-563d7c?style=flat-square)
-
-Contributed to **Madonnina-Studios**
-
-⭐ 18
-
-</td>
-<td width="50%">
-
-### 📋 &nbsp;[ultimo-voto](https://github.com/Madonnina-Studios/ultimo-voto)
-
-![CSS](https://img.shields.io/badge/CSS-563d7c?style=flat-square)
-
-Contributed to **Madonnina-Studios**
-
-⭐ 1
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- Notable Projects -->
-## 🔖 &nbsp;Notable Projects
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-### 📁 &nbsp;[llm-cpp](https://github.com/mistery-alex06/llm-cpp) &nbsp;![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square)
-
-Un motore LLM artigianale in C++ sviluppato da zero, con matrici, tokenizzazione e logica neurale personalizzata.
-
-⭐ 0 &nbsp;&nbsp; 🍴 0
-
-</td>
-<td width="50%">
-
-### 📁 &nbsp;[Ares---Automated-Resource-Engagement-System](https://github.com/mistery-alex06/Ares---Automated-Resource-Engagement-System) &nbsp;![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square)
-
-Ares è un sistema di intelligenza artificiale avanzato progettato per l'integrazione e il monitoraggio operativo. È in grado di eseguire comandi complessi, fornire analisi in tempo reale sullo stato.
-
-⭐ 0 &nbsp;&nbsp; 🍴 0
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📁 &nbsp;[cpp-directory-analyzer](https://github.com/mistery-alex06/cpp-directory-analyzer) &nbsp;![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square)
-
-Un lightweight file analyzer e directory scanner ad alte prestazioni interamente in C++.
-
-⭐ 0 &nbsp;&nbsp; 🍴 0
-
-</td>
-<td width="50%">
-
-### 📁 &nbsp;[cpp-http-server](https://github.com/mistery-alex06/cpp-http-server) &nbsp;![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square)
-
-A lightweight, multi-threaded HTTP server built from scratch in modern C++ using a custom ThreadPool architecture.
-
-⭐ 0 &nbsp;&nbsp; 🍴 0
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📁 &nbsp;[Poker_C](https://github.com/mistery-alex06/Poker_C) &nbsp;![C](https://img.shields.io/badge/C-555555?style=flat-square)
-
-Texas-Holdem-Engine-C: Motore di gioco per Texas Hold'em sviluppato in C puro. Architettura modulare progettata per l'interoperabilità.
-
-⭐ 0 &nbsp;&nbsp; 🍴 0
-
-</td>
-<td width="50%">
-
-### 📁 &nbsp;[mistery-alex06](https://github.com/mistery-alex06/mistery-alex06)
-
-*No description available for this repository.*
-
-⭐ 0 &nbsp;&nbsp; 🍴 0
-
-</td>
-</tr>
-</table>
-
----
-
 <!-- Contribution Snake -->
 <div align="center">
 
 ## 🐍 &nbsp;Contribution Snake
 
 <img src="https://raw.githubusercontent.com/mistery-alex06/mistery-alex06/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-<!-- Trophies -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mistery-alex06/mistery-alex06/main/assets/trophy.svg" alt="Trophies"/>
 
 </div>
