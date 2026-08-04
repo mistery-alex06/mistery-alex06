@@ -1,120 +1,148 @@
-<!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:161b22,100:0d1117&text=Welcome%20to%20Alessio%20Casarotto's%20Hub&fontSize=28&fontColor=e6edf3&fontAlignY=40&desc=Explore%20open%20source%20contributions%20and%20projects&descAlignY=60&descColor=8b949e&section=header" width="100%"/>
-</div>
-
-<!-- Stats Cards -->
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="190">
-<img src="https://cdn.simpleicons.org/github/ffffff" width="24" height="24"/><br>
-<big><big><b>17</b></big></big><br>
-<sub><b>TOTAL REPOS</b></sub>
-</td>
-<td align="center" width="190">
-<img src="https://cdn.simpleicons.org/apachespark/FFD700" width="24" height="24"/><br>
-<big><big><b>0</b></big></big><br>
-<sub><b>ALL STARS</b></sub>
-</td>
-<td align="center" width="190">
-<img src="https://cdn.simpleicons.org/meetup/FF00FF" width="24" height="24"/><br>
-<big><big><b>7</b></big></big><br>
-<sub><b>FOLLOWERS</b></sub>
-</td>
-<td align="center" width="190">
-<img src="https://cdn.simpleicons.org/clockify/00CC66" width="24" height="24"/><br>
-<big><big><b>1</b></big></big><br>
-<sub><b>YEARS ACTIVE</b></sub>
-</td>
-</tr>
-</table>
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=4000&pause=1000&color=F8F6F0&center=true&vCenter=true&width=700&lines=Alessio+Casarotto;Automation+Engineering+Student;Politecnico+di+Milano"/>
 
-</div>
+<img src="https://github.com/mistery-alex06/mistery-alex06/blob/main/assets/banner.png?raw=true&v=2" width="100%" alt="Banner"/>"
+
+### Automation Engineering student at Politecnico di Milano 🇮🇹
+
+> *Building software for Polimi Sailing Team* <br>
+> *Experimenting with various languages and turning simple ideas into real projects*
 
 <br>
 
----
-
-<!-- Contributions Section -->
-## 📊 &nbsp;Contributions
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mistery-alex06&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=3fb950&area=true&area_color=3fb950)](https://github.com/mistery-alex06)
-
-</div>
-
-<!-- GitHub Stats -->
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-umber-nu-22.vercel.app/api?username=mistery-alex06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=0&bg_color=0d1117"/>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/mistery-alex06"><img height="160" src="https://streak-stats.demolab.com?user=mistery-alex06&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak"/></a>
-
-</div>
-
-<!-- Trophies -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mistery-alex06/mistery-alex06/main/assets/trophy.svg" alt="Trophies"/>
+![](https://komarev.com/ghpvc/?username=mistery-alex06&label=Profile%20Views&color=E6D3A3&style=for-the-badge)
 
 </div>
 
 ---
 
-<!-- Tech Stack Section -->
-## `</>` &nbsp;Tech Stack & Languages
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**CORE TECHNOLOGIES**
-
-![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-f34b7d?style=flat-square&logo=cmake&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnubash&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css3&logoColor=white)
-
-<br>
-
-**FRAMEWORKS & TOOLS**
-
-![Angular](https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
+# 👋 About Me
 
 <div align="center">
 
-<img src="https://github-readme-stats-umber-nu-22.vercel.app/api/top-langs/?username=mistery-alex06&layout=donut-vertical&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=0&bg_color=0d1117" height="200"/>
-
-> *Based on 28.9MB of code*
+| 🎓 Student & Developer | 🚀 Current Project | 🎮 Hobby | 🌱 Mindset |
+|---|---|---|---|
+| Automation Engineering @ **Politecnico di Milano**<br>Software Developer @ **Polimi Sailing Team**<br>Programming for **5+ years** | Portable Gaming USB | 🎮 Gaming<br>🥊 Combat Sports<br>🎵 Music | Always Learning |
 
 </div>
 
-</td>
-</tr>
-</table>
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css"/>
+
+</p>
+
+## Frameworks & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,nodejs,git,github,docker,vscode,bash"/>
+
+</p>
 
 ---
 
-<!-- Contribution Snake -->
+# 📊 GitHub Analytics
+
 <div align="center">
 
-## 🐍 &nbsp;Contribution Snake
+<img height="180" src="https://github-readme-stats-umber-nu-22.vercel.app/api?username=mistery-alex06&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=0"/>
 
-<img src="https://raw.githubusercontent.com/mistery-alex06/mistery-alex06/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img height="250" src="https://github-readme-stats-umber-nu-22.vercel.app/api/top-langs/?username=mistery-alex06&layout=compact&theme=transparent&hide_border=true&langs_count=12&card_width=265&cache_seconds=0"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=mistery-alex06&theme=transparent&hide_border=true"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/mistery-alex06/mistery-alex06/main/assets/trophy.svg"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mistery-alex06&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | Description |
+|------------|-------------|
+| 🃏 **Poker in C** | Multiplayer poker game completely written in C. |
+| 🎮 **Portable Gaming USB** | Portable gaming environment running directly from a USB drive. |
+| ⚓ **Polimi Sailing Team** | Software developed for the university sailing team. |
+
+</div>
+
+---
+
+# 🚧 Currently Working On
+
+<div align="center">
+
+```text
+██████████████████████████████████
+
+Portable Gaming USB
+
+A portable gaming environment
+containing games, utilities
+and custom software.
+
+Status
+
+██████████░░░░░░░░░░░░ 45%
+
+██████████████████████████████████
+```
+
+</div>
+
+---
+
+# 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://discord.com/users/mistery_alex"><img src="https://skillicons.dev/icons?i=discord"/></a>&nbsp;&nbsp;<a href="https://instagram.com/Alessio Casarotto"><img src="https://skillicons.dev/icons?i=instagram"/></a>&nbsp;&nbsp;<a href="https://facebook.com/Alessio Casarotto"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48"/></a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mistery-alex06/mistery-alex06/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Motto
+
+> **IF IT DOESN'T WORK, MAKE IT WORK**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E6D3A3,100:111111&section=footer"/>
 
 </div>
