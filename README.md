@@ -59,7 +59,7 @@
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=mistery-alex06&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mistery-alex06&theme=transparent&hide_border=true"/>
 
 <br><br>
 
