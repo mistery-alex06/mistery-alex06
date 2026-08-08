@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: mistery-alex06
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#E6D3A3&color_dots=#111111,#3d3320,#705a2e,#a3823f,#E6D3A3
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#F8F6F0&color_dots=#111111,#3d3320,#705a2e,#a3823f,#E6D3A3
+            dist/github-contribution-grid-snake.svg?color_snake=%23E6D3A3&color_dots=%23111111,%233d3320,%23705a2e,%23a3823f,%23E6D3A3
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23F8F6F0&color_dots=%23111111,%233d3320,%23705a2e,%23a3823f,%23E6D3A3
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
